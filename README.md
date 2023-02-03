@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science undergrad who's also a programming ninja on the run from the Matrix. I'm always on the lookout for the latest and greatest tech to conquer, like a modern-day Neo. I've honed my skills by working with BlocPower and the HAX Lab, saving the world one decentralized system at a time. It's like I'm a superhero of the tech world, minus the spandex suit. #savetheworld #codinggenius #matrixescapee  #taketheredpill
+Computer science undergrad who's also a programming ninja on the run from the Matrix. Always on the lookout for the latest and greatest tech to conquer, like a modern-day Neo. I've honed my skills by working with BlocPower and the HAX Lab, saving the world one decentralized system at a time. It's like I'm a superhero of the tech world, minus the spandex suit. #savetheworld #codinggenius #matrixescapee  #taketheredpill
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/terell-reed-140377263) 
