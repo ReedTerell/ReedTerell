@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science undergrad and Solid tech ninja, always on the hunt for cutting-edge tech to conquer. Worked with BlocPower and the HAX Lab, honing skills and saving the world one decentralized system at a time. When not saving the world, having fun with quirky app creations.
+Computer science undergrad and programming ninja, always on the hunt for cutting-edge tech to conquer. Worked with BlocPower and the HAX Lab, honing skills and saving the world one decentralized system at a time. When not saving the world, having fun with personal app creations.
 
 
 ## 🌐 Socials:
