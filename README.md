@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm not just any computer science undergrad, I've escaped the Matrix and now use my coding and cybersecurity skills to protect humanity from the forces of evil. Don't worry, I've got this under control...or do I? #savetheworld #taketheredpill
+I am a tech-savvy whiz-kid, a computer science undergrad researcher who dreams of conquering the world of software engineering and cybersecurity. I got more certifications than Windows has updates, including CCNA, CCT, Security Plus, and probably even a certification for having certificatons. Code cleaner than your momma laundry, and cybersecurity skills stronger than your neighborhood bodybuilder. #Silicon Valley
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/terell-reed-140377263) 
