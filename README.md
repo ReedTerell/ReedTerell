@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/terell-reed-140377263](www.linkedin.com/in/terell-reed-140377263)
 
-- ⚡ Fun fact **I earned my certifications at 16 years old**
+- ⚡ Fun fact **I earned my certifications in H.S**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
