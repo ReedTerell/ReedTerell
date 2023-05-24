@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terell</h1>
-<h3 align="center">As an undergraduate researcher, I hold professional certifications in CCNA, CCT, and CompTIA Security+ that demonstrate my expertise in the field of cybersecurity and software engineering. My ardent interest in these areas drives my pursuit of knowledge and advancement in these fields.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reedterell&label=Profile%20views&color=0e75b6&style=flat" alt="reedterell" /> </p>
 
